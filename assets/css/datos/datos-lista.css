@@ -1,0 +1,21 @@
+
+@media screen and (min-width:0) {
+    .datos__lista{
+        flex-direction: column;
+        padding: 4rem 0 0rem 0; 
+    }
+    
+}
+
+@media screen and (min-width:768px) {
+    
+}
+
+@media screen and (min-width:992px) {
+    .datos__lista{
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        padding: 4rem 0 0rem 0;
+    }
+}

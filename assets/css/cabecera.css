@@ -1,0 +1,25 @@
+
+@media screen and (min-width:0) {
+    .cabecera{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: black;
+    }
+
+    
+}
+
+
+
+@media screen and (min-width:992px){
+    .cabecera{
+        background: rgba(0,0,0,0.9);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        z-index: 100;
+        width: 100vw;
+    }
+}

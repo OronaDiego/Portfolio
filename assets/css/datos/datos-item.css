@@ -1,0 +1,25 @@
+.datos__item{
+    list-style: none;
+    margin: 1rem 3rem 1rem 1rem;
+    border-left: 3px #eee solid;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    
+}
+
+@media screen and (min-width:0) {
+    .datos__item{
+        border-left: none;
+    }
+    
+}
+@media screen and (min-width:768px) {
+   
+}
+@media screen and (min-width:992px) {
+    .datos__item{
+        border-left: 3px #eee solid;
+        
+    }
+    
+}

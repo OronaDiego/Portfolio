@@ -1,0 +1,23 @@
+.contacto_container{
+    display: inline-flex;
+    padding: 4rem;
+    background: #EAF2FD;
+    margin-top: 5rem;
+    align-items: center;
+    width: 100vw;
+}
+
+@media screen and (min-width:0) {
+    .contacto_container{
+        display: flex;
+        
+    }
+}
+
+@media screen and (min-width:768px) {
+    
+}
+
+@media screen and (min-width:992px) {
+    
+}

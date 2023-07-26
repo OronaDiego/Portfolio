@@ -1,0 +1,9 @@
+.sobreMi_imagenFixed{
+    background: url(../../img/SillaDeveloper.jpg)  no-repeat center/cover;
+    width: 100vw;
+    height: 61vh;
+    background-attachment: fixed;
+    filter: brightness(0.7);
+    
+    
+}

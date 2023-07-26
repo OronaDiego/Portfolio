@@ -1,0 +1,11 @@
+.formacion__imagen{
+    padding: 3rem;
+    border-radius: 0.2rem;
+    background: #FEFEFE;
+    margin-top: 5rem;
+}
+.formacion__imagen:hover{
+    box-shadow: 0rem 0rem 2rem 1rem grey;
+    transition: 0.3s;
+
+}

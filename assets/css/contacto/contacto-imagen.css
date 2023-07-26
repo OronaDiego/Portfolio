@@ -1,0 +1,19 @@
+
+
+@media screen and (min-width:0) {
+    .contacto_imagen{
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .contacto_imagen{
+        display: none;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .contacto_imagen{
+        display: flex;
+    }
+}

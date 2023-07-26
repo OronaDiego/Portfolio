@@ -1,0 +1,15 @@
+.hobbies{
+    background: #EAF2FD;
+    display: flex;
+    background-size: cover;
+}
+@media  screen and (min-width:0) {
+    .hobbies{
+        flex-wrap: wrap;
+    }
+}
+@media  screen and (min-width:992px) {
+    .hobbies{
+        flex-wrap: nowrap;
+    }
+}

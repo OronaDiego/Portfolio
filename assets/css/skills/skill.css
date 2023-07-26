@@ -1,0 +1,9 @@
+.skill{
+    
+    
+    display: flex;
+    flex-direction: column; 
+    width: calc(25% - 5rem);
+    margin: 5rem 5rem 5rem 6rem;
+    align-items: center;
+}

@@ -1,0 +1,21 @@
+
+@media screen and (min-width:0) {
+    .sobreMi_foto{
+        width: 70vw;
+        height: 29vh;
+        margin-left: 1rem;
+    }
+}
+@media screen and (min-width:768px) {
+    .sobreMi_foto{
+        width: 20vw;
+        height: 40vh;
+    }
+}
+@media screen and (min-width:992px) {
+    .sobreMi_foto{
+        width: 20vw;
+        height: 40vh;
+        border-radius: 5px;
+    }
+}

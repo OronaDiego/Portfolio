@@ -1,0 +1,22 @@
+.banner__titulo{
+    color:aliceblue;
+    
+    position: absolute;
+    text-align: center;
+    font-size: 5.0625rem;
+}
+@media screen and (min-width:0) {
+    .banner__titulo{
+        left: 0;
+        top: 18%;
+    }
+}
+@media screen and (min-width:768px) {
+    
+}
+@media screen and (min-width:992px) {
+    .banner__titulo{
+        left: 14%;
+        top: 50%;
+    }
+}

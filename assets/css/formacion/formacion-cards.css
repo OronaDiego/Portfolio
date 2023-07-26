@@ -1,0 +1,6 @@
+.formacion__cards{
+    display: flex;
+    justify-content: center;
+    background: #EAF2FD;
+    height: 50vh;
+}

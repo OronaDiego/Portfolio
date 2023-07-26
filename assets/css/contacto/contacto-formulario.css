@@ -1,0 +1,10 @@
+@media  screen and (min-width:0) {
+    .contacto_texto{
+        display: flex;
+        flex-direction: column;
+        width: 60vw;
+    }
+   }
+   @media  screen and (min-width:992px) {
+       
+   }
